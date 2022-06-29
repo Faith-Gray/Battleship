@@ -9,5 +9,5 @@ console.log(jeff.name); // 'jeff'
   
 jeff.sayHello(); // calls the function and logs 'hello
 
-
+export default ship;    
 //what should hit be?  a function? an array of hit spots?
